@@ -6,7 +6,7 @@
 
 <template>
     <button>
-        送信
+        <slot>送信</slot>
     </button>
 </template>
     

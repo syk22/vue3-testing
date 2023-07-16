@@ -8,7 +8,7 @@ type NameArray = 'infoText';
 export const useStoreTest2 = defineStore('test2', {
   state: () => {
     return {
-      data: {infoText: "ストアその２"} as Inputs,
+      data: {} as Inputs,
     };
   },
   getters: {
