@@ -1,13 +1,12 @@
-<script setup>
+<script setup lang="ts">
 import InputText from '@/components/InputText.vue';
+
 const props = defineProps({
     title: String,
     state: {
         maxlength: Number,
         type: String,
         placeholder: String,
-        // value: String,
-        // id: String,
         name: String,
     },
 });

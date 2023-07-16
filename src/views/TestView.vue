@@ -7,7 +7,6 @@ const propvalue = {
         maxlength: 15,
         type: "number",
         placeholder: "Props-placeholder",
-        // id: "Props-id",
         name: "userId",
     },
 };
@@ -17,7 +16,6 @@ const propvalue2 = {
         maxlength: 20,
         type: "text",
         placeholder: "Props2-placeholder",
-        // id: "Props2-id",
         name: "userTextValue",
     },
 };
@@ -27,7 +25,6 @@ const propvalue3 = {
         maxlength: 20,
         type: "text",
         placeholder: "Props3-placeholder",
-        // id: "Props2-id",
         name: "infoText",
     },
 };
