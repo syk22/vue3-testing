@@ -1,5 +1,9 @@
 # test
 
+## こんなん入れてみるといいかも
+
+[【Vue.js】テキストボックスの入力制限](https://qiita.com/s_ryota/items/050213a5211e206d7e24)
+
 ## Project setup
 ```
 npm install
