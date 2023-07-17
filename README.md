@@ -2,7 +2,10 @@
 
 ## こんなん入れてみるといいかも
 
-[【Vue.js】テキストボックスの入力制限](https://qiita.com/s_ryota/items/050213a5211e206d7e24)
+- [Vue 3 Auth Guard（未認証の場合にログインページにリダイレクト）](https://ha6-6ru.hatenablog.com/entry/2022/03/05/002454)
+- [Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html#navigation-guards)
+- [Vuex&VueRouterで要認証ナビゲーションガード](https://scramblenote.com/article/vue-router-navigation-guard)
+- [Vue.js 3 Route Guards Tutorial](https://www.koderhq.com/tutorial/vue/route-guard/)
 
 ## Project setup
 ```
