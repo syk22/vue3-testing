@@ -14,7 +14,7 @@ articlesData.forEach((v) => {
   titles.push({id: v.id, title: v.title});
   
 });
-console.log(titles);
+// console.log(titles);
 
 </script>
 
