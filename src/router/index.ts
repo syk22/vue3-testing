@@ -36,10 +36,10 @@ const routes: Array<RouteRecordRaw> = [
       import(/* webpackChunkName: "article" */ '../components/routing/ArticleDetail.vue'),
     props: true,
   },
-  // {
-  //   path: '/:notFound(.*)',
-  //   component: () => import(/* webpackChunkName: "404" */ '../components/routing/404NotFound.vue'),
-  // },
+  {
+    path: '/:notFound(.*)',
+    component: () => import(/* webpackChunkName: "404" */ '../components/routing/404NotFound.vue'),
+  },
 ];
 
 const router = createRouter({
